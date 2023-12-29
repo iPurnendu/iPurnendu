@@ -1,3 +1,5 @@
+![logo](https://github.com/iPurnendu/iPurnendu/blob/main/banner.png)
+
 <h1 align="center">Hi 👋, I'm Purnendu Bhattacharjee</h1>
 <h3 align="center">A tech enthusiast weaving web wonders as a Full Stack developer.</h3>
 
