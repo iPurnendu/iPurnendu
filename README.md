@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Purnendu Bhattacharjee</h1>
 <h3 align="center">A tech enthusiast weaving web wonders as a Full Stack developer.</h3>
 
-<img align="right" alt="coding" width="400" src="./animatelogo.gif">
+<img align="right" alt="coding" width="400" src="banner.png"/>
 <p align="left"> <a href="https://twitter.com/purnendu2531" target="blank"><img src="https://img.shields.io/twitter/follow/purnendu2531?logo=twitter&style=for-the-badge" alt="purnendu2531" /></a> </p>
 
 - 🔭 I am pursuing **PG degree in Development of Advance Computing at the CDAC, Mumbai Kharghar.**
