@@ -17,7 +17,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/purnendu2531" target="blank"><img align="center" src="https://seeklogo.com/images/T/twitter-icon-circle-blue-logo-94339974C6-seeklogo.com.png" alt="purnendu2531" height="40" width="40" /></a>
-<a href="https://kaggle.com/purnend26" target="blank"><img align="center" src="https://seeklogo.com/images/K/kaggle-logo-83322F52DE-seeklogo.com.png" alt="purnend26" height="30" width="50" /></a>
+<a href="https://kaggle.com/purnend26" target="blank"><img align="center" src="https://seeklogo.com/images/K/kaggle-logo-83322F52DE-seeklogo.com.png" alt="purnend26" height="30" width="60" /></a>
 <a href="https://fb.com/purnendu.bhattacharjee.96155" target="blank"><img align="center" src="https://seeklogo.com/images/F/facebook-logo-966BBFBC34-seeklogo.com.png" alt="purnendu.bhattacharjee.96155" height="40" width="40" /></a>
 <a href="https://instagram.com/i_purnendu" target="blank"><img align="center" src="https://seeklogo.com/images/I/instagram-new-2016-logo-D9D42A0AD4-seeklogo.com.png" alt="i_purnendu" height="40" width="40" /></a>
 <a href="https://www.youtube.com/c/ipurnendu" target="blank"><img align="center" src="https://seeklogo.com/images/Y/youtube-2017-icon-logo-D1FE045118-seeklogo.com.png" alt="ipurnendu" height="40" width="50" /></a>
