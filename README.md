@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Purnendu Bhattacharjee</h1>
 <h3 align="center">A tech enthusiast weaving web wonders as a Full Stack developer.</h3>
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"/>
+<img align="right" alt="coding" width="400" src="https://media.licdn.com/dms/image/D4D22AQEinzDK5tn-Mg/feedshare-shrink_800/0/1703833778396?e=1706745600&v=beta&t=X_sX78qp6Mg5-M_KgFgTkqlqnQGd2YV1W4VW37ZBFNM"/>
 <p align="left"> <a href="https://twitter.com/purnendu2531" target="blank"><img src="https://img.shields.io/twitter/follow/purnendu2531?logo=twitter&style=for-the-badge" alt="purnendu2531" /></a> </p>
 
 - 🔭 I am pursuing **PG degree in Development of Advance Computing at the CDAC, Mumbai Kharghar.**
