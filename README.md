@@ -16,7 +16,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/purnendu2531" target="blank"><img align="center" src="[[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg](https://banner2.cleanpng.com/20171202/6d6/twitter-png-file-5a22fe5081d054.7955961715122427685317.jpg)](https://seeklogo.com/images/T/twitter-icon-circle-blue-logo-94339974C6-seeklogo.com.png)" alt="purnendu2531" height="30" width="40" /></a>
+<a href="https://twitter.com/purnendu2531" target="blank"><img align="center" src="https://seeklogo.com/images/T/twitter-icon-circle-blue-logo-94339974C6-seeklogo.com.png" alt="purnendu2531" height="30" width="40" /></a>
 <a href="https://kaggle.com/purnend26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="purnend26" height="30" width="40" /></a>
 <a href="https://fb.com/purnendu.bhattacharjee.96155" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="purnendu.bhattacharjee.96155" height="30" width="40" /></a>
 <a href="https://instagram.com/i_purnendu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="i_purnendu" height="30" width="40" /></a>
